@@ -8,7 +8,7 @@ print(cost)
 travel=[0]
 pos=0
 travelling_cost=0
-for i in range(n+1):
+for i in range(n):
     min=100
     i=pos
     for j in range(n):   
